@@ -46,22 +46,23 @@ I'm a **Full-stack Software Engineer** with over **8 years of experience** build
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+
+#### Cloud & DevOps:
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+
+
 #### Message Brokers:
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
 
 #### Search and Message Queues:
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![AWS SQS](https://img.shields.io/badge/-AWS_SQS-FF4F8B?style=flat&logo=amazonsqs&logoColor=white)
 
-#### Cloud & DevOps:
-![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
-![S3](https://img.shields.io/badge/-Amazon_S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-
----
 
 ### 📈 Featured Articles
 Here are a few articles that I’m proud of:
