@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-I'm a **Full-stack Software Engineer** based in Nigeria 🇳🇬, with over **8 years of experience** building dynamic, scalable web applications and architecting **microservice-based systems**. I have extensive experience working with **message brokers** such as **Kafka**, which enables real-time data streaming and enhances communication in distributed systems. My passion lies in problem-solving and delivering robust software solutions using modern tech stacks.
+I'm a **Full-stack Software Engineer** with over **8 years of experience** building dynamic, scalable web applications and architecting **microservice-based systems**. I have extensive experience working with **message brokers** such as **Kafka**, which enables real-time data streaming and enhances communication in distributed systems. My passion lies in problem-solving and delivering robust software solutions using modern tech stacks.
 
 
 ---
@@ -89,7 +89,3 @@ Feel free to reach out if you'd like to collaborate or discuss opportunities:
 - 📝 **Dev.to Blog**: [Articles on Web Development](https://dev.to/dev_habib_nuhu)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=habib-nuhu&style=flat-square" alt="Profile views" />
-</p>
